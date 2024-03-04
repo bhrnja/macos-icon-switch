@@ -1,0 +1,10 @@
+This program is made possible with the open source modules of customtkinter and packing. Please find the links below:
+
+https://github.com/TomSchimansky/CustomTkinter
+https://github.com/pypa/packaging
+
+You may use and redistribute this software how you see fit. I am not responsible for any damages incurred to your device(s) upon use of this software.
+Please refer to all other LICENSE files found in this repository.
+
+https://github.com/bhrnja/macos-icon-switch
+
